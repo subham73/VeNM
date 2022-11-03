@@ -1,3 +1,3 @@
 # VeNM
 
-Note Utility Providing FingerTip Access Online Videos.
+Note Utility Providing FingerTip Access On Online Videos.
